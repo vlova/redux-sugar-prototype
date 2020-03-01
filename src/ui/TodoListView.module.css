@@ -1,0 +1,30 @@
+.todoListContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.addNew {
+    outline: none;
+    border: none;
+    background: none;
+    margin-left: auto;
+    font-size: 24px;
+    background: white;
+    z-index: 1;
+    box-shadow: 0px -1px 2px 0 rgba(0, 0, 0, 0.2);
+    height: 36px;
+    width: 36px;
+}
+
+.addNew:active{
+    transform: translate(1px, -1px);
+}
+
+.todoItems {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+}

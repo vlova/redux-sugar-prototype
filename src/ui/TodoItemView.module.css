@@ -1,0 +1,30 @@
+.todoItem {
+    display: flex;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.todoItem input[type="text"] {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    padding: 16px 8px;
+}
+
+.todoItem input[type="text"]:focus {
+    border: none;
+    outline: none;
+    outline-offset: 0px;
+}
+
+.todoItem.isCompleted input[type="text"] {
+    color: #d9d9d9;
+    text-decoration: line-through;
+    transition: color 0.4s;
+}
+
+.todoItem input[type="checkbox"] {
+    margin: auto;
+    margin-left: 12px;
+    margin-right: 8px;
+}
