@@ -1,6 +1,6 @@
 Type-safe OOP-like sugar for redux + fields sugar.
 
-[Описание идеи](https://medium.com/@viktorlove/oop-like-redux-sugar-6ec58a781bae)
+[Описание идеи](https://medium.com/@viktorlove/oop-like-redux-sugar-6ec58a781bae)<br/>
 [Deployed "todo" app](https://vlova.github.io/redux-sugar-prototype/)
 
 # Clone & run
