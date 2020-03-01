@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-sugar-prototype/static/css/main.a49c4971.chunk.css",
+    "main.js": "/redux-sugar-prototype/static/js/main.f2630211.chunk.js",
+    "main.js.map": "/redux-sugar-prototype/static/js/main.f2630211.chunk.js.map",
+    "runtime-main.js": "/redux-sugar-prototype/static/js/runtime-main.f2787f21.js",
+    "runtime-main.js.map": "/redux-sugar-prototype/static/js/runtime-main.f2787f21.js.map",
+    "static/js/2.c3267a34.chunk.js": "/redux-sugar-prototype/static/js/2.c3267a34.chunk.js",
+    "static/js/2.c3267a34.chunk.js.map": "/redux-sugar-prototype/static/js/2.c3267a34.chunk.js.map",
+    "index.html": "/redux-sugar-prototype/index.html",
+    "precache-manifest.47843133f66b0a99e8f12bdb423fe9de.js": "/redux-sugar-prototype/precache-manifest.47843133f66b0a99e8f12bdb423fe9de.js",
+    "service-worker.js": "/redux-sugar-prototype/service-worker.js",
+    "static/css/main.a49c4971.chunk.css.map": "/redux-sugar-prototype/static/css/main.a49c4971.chunk.css.map",
+    "static/js/2.c3267a34.chunk.js.LICENSE.txt": "/redux-sugar-prototype/static/js/2.c3267a34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2787f21.js",
+    "static/js/2.c3267a34.chunk.js",
+    "static/css/main.a49c4971.chunk.css",
+    "static/js/main.f2630211.chunk.js"
+  ]
+}
