@@ -26,8 +26,11 @@ dispatch(todoActions.updateText({
 ```
 const [text, updateText]
  = useField(todoItemFields.text, id);
-<TextField
-  value={text}
-  onChange={updateText}
-/>
+ 
+return (
+  <TextField
+    value={text}
+    onChange={updateText}
+  />)
+)
 ```
