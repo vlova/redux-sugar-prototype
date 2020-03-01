@@ -42,5 +42,6 @@
     "@types/react-redux": "^7.1.7",
     "@types/redux": "^3.6.0",
     "@types/classnames": "2.2.3"
-  }
+  },
+  "homepage": "https://vlova.github.io/redux-sugar-prototype"
 }
